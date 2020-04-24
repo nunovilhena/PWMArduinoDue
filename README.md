@@ -6,10 +6,10 @@ With this library, it is possible to control the PWM ports with the following fu
  * 		Synchronized or asynchronized PWM channels.
 
 PWM channels that can be used (Main Channel & Complementary Channel):
- * 		PWMx0 (D34 & D35)
-        PWMx1 (D36 & D37)
-        PWMx2 (D38 & D39)
-        PWMx3 (D40 & D41)
+ * 		PWMx0 (D34 & D35) -> Channel 1
+        PWMx1 (D36 & D37) -> Channel 2
+        PWMx2 (D38 & D39) -> Channel 3
+        PWMx3 (D40 & D41) -> Channel 4
  
  DUE's ATMEL ATSAM3X8E micro-controller PWM modules.
  
