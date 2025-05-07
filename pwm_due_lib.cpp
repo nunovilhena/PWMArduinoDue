@@ -26,6 +26,7 @@
  * 18/01/2018 v1.00 First development version.
  * 03/03/2018 v2.00 Functions START_PWM and STOP_PWM were added.
  * 15/09/2018 v2.10 When function STOP_PWM is called, the dutycycle is also set to zero.
+ * 10/11/2023 v2.30 Bug fix.
 -----------------------------------------------------------------------------------------**/
 #include <Arduino.h>
 #include "pwm_due_lib.h"
